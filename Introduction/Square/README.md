@@ -1,4 +1,4 @@
-# Print a Square`
+# Print a Square
 
 Create a C Program that draws a square:
 
