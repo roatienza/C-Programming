@@ -6,4 +6,4 @@ Create a C Program that converts a number [0,100] to words:
 
 `Eighty nine`
 
-1. No brute force chain of conversion. You must apply an practical algorithm for int to word conversion.
+1. No brute force chain of conversion. You must apply a practical algorithm for int to word conversion.
