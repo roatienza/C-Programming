@@ -8,3 +8,4 @@ C Programming Experiments
   - [Experiment 4: Number to Words](Experiments/Number2Words/README.md)
   - [Experiment 5: SMS Text](Experiments/SMS/README.md)
   - [Experiment 6: HTML Decoder](Experiments/HTMLDecoder/README.md)
+  - [Experiment 7: CSV Parser](Experiments/CSVParsing/README.md)
