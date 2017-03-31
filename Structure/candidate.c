@@ -27,9 +27,9 @@ int main()
 		}
 	}
 	if(clinton.votes>trump.votes){
-		printf("The winner is %s\n",clinton.name);
+		printf("The winner is %s\n with %d votes",clinton.name, clinton.votes);
 	}else {
-		printf("The winner is %s\n",trump.name);
+		printf("The winner is %s with %d votes\n",trump.name, trump.votes);
 	}
 	return 0;
 }
