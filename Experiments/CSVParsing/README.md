@@ -25,3 +25,7 @@ You must save the fields in a structure:
 `	unsigned long long student_number;`
 
 `};`
+
+Notes:
+1. Terminate parsing when the user enters an empty line
+2. Print the contents of the array of structure after parsing
