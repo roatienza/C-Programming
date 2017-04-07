@@ -10,5 +10,5 @@ Create a C program that demonstrates pointer arithmetic on strings.
 
 `bwf`
 
-(Bonus) Using a pointer to the end of a string (the null), print the string in reverse.
+2. Using a pointer to the end of a string (the null), print the string in reverse.
 
