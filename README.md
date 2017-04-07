@@ -9,3 +9,4 @@ C Programming Experiments
   - [Experiment 5: SMS Text](Experiments/SMS/README.md)
   - [Experiment 6: HTML Decoder](Experiments/HTMLDecoder/README.md)
   - [Experiment 7: CSV Parser](Experiments/CSVParsing/README.md)
+  - [Experiment 8: Pointer Arithmetic](Experiments/PointerArithmetic)
