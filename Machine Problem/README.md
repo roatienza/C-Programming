@@ -6,11 +6,11 @@ In computer applications, there are situations where the integral has no known c
 
 A typical usage:
 
-./polyintegrator -c 2,-1,0,4 -r 0,1 -d 0.01
+`./polyintegrator -c 2,-1,0,4 -r 0,1 -d 0.01`
 
-which is the integral of 2x^3 - x^2 + 4 from 0 to 1 using delta of 0.01
+which is the integral of `2x^3 - x^2 + 4` from `0` to `1` using delta of `0.01`.
 
-Using -c to given the option for coefficients which are comma separated, -r for the range and -d for the delta.
+Using `-c` to given the option for coefficients which are comma separated, `-r` for the range and `-d` for the delta.
 
 Validate the accuracy by printing the error versus the known closed form solution of the integral of 3rd degree polynomial.
 
@@ -23,4 +23,4 @@ Grading:
 3. 10% - Q and A
 4. 10% - 1-page report for the algorithm, flowchart, implementation and test results
 
-Due: May 12, 2017 
+### Due: May 12, 2017 
