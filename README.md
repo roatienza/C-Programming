@@ -1,7 +1,7 @@
 # C-Programming
 C Programming Experiments
 
-1. Introduction
+1. Experiments
   - [Experiment 1: Stair steps pattern](Experiments/Stairs/README.md)
   - [Experiment 2: Wave pattern](Experiments/Wave/README.md)
   - [Experiment 3: Square](Experiments/Square/README.md)
@@ -10,3 +10,5 @@ C Programming Experiments
   - [Experiment 6: HTML Decoder](Experiments/HTMLDecoder/README.md)
   - [Experiment 7: CSV Parser](Experiments/CSVParsing/README.md)
   - [Experiment 8: Pointer Arithmetic](Experiments/PointerArithmetic)
+ 
+ 2. [Machine Problem: Numerical Integration](Machine%20Problem/README.md)
