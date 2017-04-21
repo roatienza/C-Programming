@@ -15,7 +15,7 @@ Using `-c` to given the option for coefficients which are comma separated, `-r` 
 Validate the accuracy by printing the error versus the known closed form solution of the integral of 3rd degree polynomial.
 
 Note: 
-1. Use Makefile to organize the compilation of your codes
+1. Use `Makefile` to organize the compilation of your codes
 
 Grading:
 1. 40% - Functionality
