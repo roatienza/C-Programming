@@ -1,4 +1,9 @@
 # C-Programming
+Lecture Notes
+
+[Overview](https://docs.google.com/presentation/d/1VUi42iNy0F3pRxEoeYvlNX8JHIPXUb5ss_lTK-42dlE/edit?usp=sharing)
+
+
 C Programming Experiments
 
 1. Experiments
