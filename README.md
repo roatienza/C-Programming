@@ -1,8 +1,8 @@
 # C-Programming
 Lecture Notes
 
-[Algorithms](https://docs.google.com/presentation/d/1Y-FXok6onmOYvDZDfOpTj-wajzji86oMZyCvd1aHYbE/edit?usp=sharing)
-[Overview](https://docs.google.com/presentation/d/1VUi42iNy0F3pRxEoeYvlNX8JHIPXUb5ss_lTK-42dlE/edit?usp=sharing)
+- [Algorithms](https://docs.google.com/presentation/d/1Y-FXok6onmOYvDZDfOpTj-wajzji86oMZyCvd1aHYbE/edit?usp=sharing)
+- [Overview](https://docs.google.com/presentation/d/1VUi42iNy0F3pRxEoeYvlNX8JHIPXUb5ss_lTK-42dlE/edit?usp=sharing)
 
 
 C Programming Experiments
