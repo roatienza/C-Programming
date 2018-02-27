@@ -9,7 +9,7 @@ int main()
 	int j = a/i;
 	printf("%lf + %lf = %lf \n",a,b,a+b);
 	printf("%d + %lf = %lf \n",1,b,1+b);
-	printf("%d / %lf = %d \n",i,a,j);
+	printf("%lf / %d = %d \n",a,i,j);
 	printf("%d / %d = %lf \n",3,2,(double)3/2);
 	return 0;
 }
