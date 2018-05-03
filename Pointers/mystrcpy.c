@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <string.h>
+// a is dest
+// b is source
+// a = b
 
 void mystrcpy(char*a, char*b)
 {

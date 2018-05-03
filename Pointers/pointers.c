@@ -5,8 +5,10 @@ int main()
 {
 	int i = 0x12345678;
 	int *pi = &i;
+	printf("Before: i = %d\n", i);
+	printf("Before: pi = %p\n", pi);
 	*pi = 0;
-	printf("i = %d\n", i);
-	printf("pi = %p\n", pi);
+	printf("After: i = %d\n", i);
+	printf("After: pi = %p\n", pi);
 	return 0;
 }
