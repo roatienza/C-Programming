@@ -5,12 +5,10 @@ int main()
 {
 	char* filename = "num.bin";
 	FILE* fp = fopen(filename, "rb");
-	char c[4];
-	memset(c,0,sizeof(c));
+    int a = 0;
 	if(fp){
-		while( fread(c,1,3,fp) ){
-			printf("%x%x%x\n", c[0],c[1],c[2]);
-			memset(c,0,sizeof(c));
+		while( fread(&a,1,sizeof(a),fp) ){
+            printf("0x%x\n", a);
 		}	
 		fclose(fp);
 	}else{
