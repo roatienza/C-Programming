@@ -1,20 +1,20 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct node{
+typedef struct node{
 	char a;
 	struct node* next;
-};
+}NodeT;
 
-struct node* create_node(char a)
+node* create_node(char a)
 {
-	struct node* node = malloc(sizeof(struct node));
+	NodeT* node = malloc(sizeof(node));
 	node->a = a;
 	node->next = 0;
 	return node;
 }
 
-void print_linked_list(struct node* head)
+void print_linked_list(NodeT* head)
 {
 	while(head){
 		printf("%c",head->a);
@@ -25,8 +25,8 @@ void print_linked_list(struct node* head)
 
 int main()
 {
-	struct node* head = 0;
-	struct node* node = 0;
+	NodeT* head = 0;
+	NodeT* node = 0;
 	char c = 0;
 	while(1){
 		c = getchar();
