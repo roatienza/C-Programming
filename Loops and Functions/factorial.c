@@ -2,11 +2,14 @@
 
 int factorial(int n)
 {
-	if(n==1) return 1;
-	else
-	return n*factorial(n-1);
+	int i=n-1;
+	while(i>0)
+	{
+        n=n*i;
+        i--;
+	}
+	return n;
 }
-
 int main()
 {
 	int a;
