@@ -3,10 +3,9 @@
 
 int main()
 {
-	int a = 'A';
-	int b = 'a';
-	for(a='A',b='a'; a<='Z' && b<='z'; a++,b++ ){
+	int a = 'A', b = 'a';
+	for(a='A',b='a'; a<='Z' && b<='z'; a++,b++ )
 		printf("%c-%c\n",a,b);
-	}
+	
 	return 0;
 }
